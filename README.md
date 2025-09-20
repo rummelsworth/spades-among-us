@@ -24,6 +24,6 @@ Approximating the "Among Us" game experience with a pack of 52 playing cards.
   - The game is over when:
     - the impostor is Ejected (voted out) or Caught (killed). The crewmates win.
     - two crewmates are eliminated (ejected or killed). The impostor wins.
-    - the Completed Tasks pile has 6 or more cards in it than the Sabotage pile.
-    - the Sabotage pile has 7 or more cards in it.
+    - the Completed Tasks pile has 6 or more cards in it than the Sabotage pile. The crewmates win.
+    - the Sabotage pile has 7 or more cards in it. The impostor wins.
 - The exact numbers for the Tasks/Sabotage win conditions should probably be tweaked or at least verified with more playtesting.
