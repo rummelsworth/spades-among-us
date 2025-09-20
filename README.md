@@ -27,3 +27,4 @@ Approximating the "Among Us" game experience with a pack of 52 playing cards.
     - the Completed Tasks pile has 6 or more cards in it than the Sabotage pile. The crewmates win.
     - the Sabotage pile has 7 or more cards in it. The impostor wins.
 - The exact numbers for the Tasks/Sabotage win conditions should probably be tweaked or at least verified with more playtesting.
+- You can probably play this with 3 players, just setting up and playing it like the 1st crewmate has already been killed.
